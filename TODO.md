@@ -1,0 +1,4 @@
+- [ ] Convert AUTHORS to markdown
+- [ ] Update INSTALL file / convert to markdown
+- [x] Fix copyright in each file
+- [ ] Add code format config

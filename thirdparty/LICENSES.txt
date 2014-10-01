@@ -1,0 +1,15 @@
+== LICENSES ==
+
+ * Software Name: Google Test
+   ** License Name: New BSD License
+   ** License File: share/licenses/BSD-NEW.txt
+   ** Files List:
+     1.) lib/libgtest.a
+     2.) include/gtest/**
+
+ * Software Name: Google Mock
+   ** License Name: New BSD License
+   ** License File: share/licenses/BSD-NEW.txt
+   ** Files List:
+     1.) lib/libgmock.a
+     2.) include/gmock/**
