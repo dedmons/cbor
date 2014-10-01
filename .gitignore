@@ -76,3 +76,6 @@ install_manifest.txt
 
 # Keep static libs in thirdparty folder
 !/thirdparty/lib/*.a
+
+# Keep Root Makefile
+!/Makefile
