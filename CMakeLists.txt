@@ -27,7 +27,7 @@ SET (CMAKE_VERBOSE_MAKEFILE 0) # Use 1 for debugging, 0 for release
 #
 # Compiler Flags
 #
-SET (CMAKE_C_FLAGS "-Wall -pedantic")
+SET (CMAKE_C_FLAGS "-Wall -pedantic -std=c11")
 SET (CMAKE_CXX_FLAGS "-Wall -pedantic -std=c++1y")
 
 #
