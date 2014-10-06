@@ -1,6 +1,6 @@
 // Copyright (c) 2014 Douglas Edmonson Jr. All rights reserved.
-#ifndef HEADER_SRC_LIBINFO_H_INCLUDED
-#define HEADER_SRC_LIBINFO_H_INCLUDED
+#ifndef CBOR_LIBINFO__H
+#define CBOR_LIBINFO__H
 
 /*
  * AUTO-GENERATION WARNING:
@@ -64,4 +64,4 @@
 #   define LIBRARY_ID LIBRARY_VENDOR_ID "." LIBRARY_CODENAME
 #endif
 
-#endif
+#endif /* CBOR_LIBINFO__H */
